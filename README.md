@@ -24,7 +24,7 @@
           <b>🆔 ID aniqlash • 🔄 Forward tahlili • 🔍 Qidiruv • 📊 Statistika</b>
         </p>
         <br/>
-        <a href="https://t.me/your_bot_username">
+        <a href="https://t.me/ShowMyIdXBot">
           <img src="https://img.shields.io/badge/🚀-Botni sinab ko'rish-2CA5E0?style=for-the-badge&logo=telegram" alt="Try Bot"/>
         </a>
         <a href="#-ornatish">
@@ -144,7 +144,7 @@
 
 ```bash
 # Repository ni yuklab olish
-git clone https://github.com/yourusername/info-bot.git
+git clone https://github.com/ortiqovislombek/MyId_bot.git
 cd info-bot
 
 # Virtual environment
