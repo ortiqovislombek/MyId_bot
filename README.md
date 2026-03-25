@@ -1,7 +1,6 @@
 <div align="center">
   
-  <!-- Animated Logo -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=2CA5E0&center=true&vCenter=true&width=435&lines=🤖+INFO+BOT" alt="Typing SVG" />
+
   
   <br/>
   
